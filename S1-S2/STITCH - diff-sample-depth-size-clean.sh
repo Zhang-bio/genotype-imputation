@@ -5,7 +5,7 @@
 folder=/data1/1.Crab_lab/1.Crab/2.ReseqData/1.sp/2.Site/2.cleandata
 bam_outfile_path=/public/home/user/1.projects/9.bam_down/400bam
 name_list=/public/home/user/1.projects/9.bam_down/400bam/sp_inds.txt
-ref_genome=/public/home/user/1.projects/9.bam_down/400bam/ref/Sp_mhy_ref.genome.fasta
+ref_genome=/public/home/user/1.projects/9.bam_down/400bam/ref/genome.fasta
 
 
 process_file() {
@@ -394,4 +394,5 @@ GLIMPSE2_concordance --input ./${sign}/concordance/concordance_chr${chr}_d${dep}
 done
 wait
 done
+
 done
