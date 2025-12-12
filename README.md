@@ -38,9 +38,5 @@ sh ./ligate_ihs.sh
 #raw_data  
 All raw data has been submitted to NCBI, SUB15819465; After the article is published, it will also be published.
 
-# id.txt  
-all_id_list.txt : all tested samples id
-6_id_list.txt : valid samples id
-
 # Publication
 Weiren Zhang, Lin  Chen, Yijia  Shih, Peitan  Jia, Siyi Zhou, Qionghui Qin, Yaodong Zhang, Kewei Huang, Gongyi Lin, Xiaopeng Wang, Haihui Ye. Optimization strategies for genotype imputation accuracy in low-coverage whole-genome sequencing of Scylla paramamosain. 
