@@ -22,7 +22,7 @@ plink1.9 --bfile ${sign}_imputed --chr-set 49  --geno 0.1   --hwe 0.000001   --m
 mkdir ihs
 
 filechr=${sign}_b_clean
-path=/public/home/chenlin/1.projects/9.bam_down/22jc/22jc_mindp3/gwas
+path=/public/home/user/1.projects/9.bam_down/22jc/22jc_mindp3/gwas
 
 for i in `awk '{print $1}' $path/$filechr.bim | uniq`
 do
